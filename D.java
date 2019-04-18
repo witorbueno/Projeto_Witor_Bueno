@@ -24,10 +24,16 @@ public class D {
 	public void MD2(){
 		System.out.println("MD2");
 	}
+<<<<<<< HEAD
 	public void MD3(){
 		System.out.println("MD3");
 	}
 
+=======
+		public void MD4(){
+		System.out.println("MD4");
+	}
+>>>>>>> 8dccaf780849ff894cb8bc6a1db1e6d117c8f038
 
 
 }		//WITOR ANGELO BUENO
